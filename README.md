@@ -1,2 +1,4 @@
-# programming-basics
-Basic programming practice in C and Python
+## Programming Basics
+
+This repository contains basic programming practice programs in C and Python.
+
